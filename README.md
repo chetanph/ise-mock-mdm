@@ -272,5 +272,5 @@ If you have questions, concerns, bug reports, etc., please create an issue again
 
 This project was written and is maintained by the following individuals:
 
-* Chetankumar Phulpagare <cphulpag@cisco.com>
-* Israel Fernandez <isrferna@cisco.com>
+* Chetankumar Phulpagare
+* Israel Fernandez
