@@ -1,0 +1,36 @@
+---
+'AA:BB:CC:DD:EE:FF':
+  register_status: true
+  compliance:
+    status: false
+    failure_reason: Alf does not like this phone
+    remediation: Alf wants a new phone
+  disk_encryption_on: true
+  pin_lock_on: true
+  jail_broken: false
+  manufacturer: Samsung
+  model: Galaxy S21
+  imei: 123456789012345
+  meid: A0123456789012
+  udid: 2b6f0cc904d137be2e1730235f5664094b831186
+  serial_number: SAMSNG12345678
+  os_version: Android 13
+  phone_number: "+1234567890"
+
+'00:26:B4:24:FE:B4':
+  register_status: true
+  compliance:
+    status: true
+    failure_reason: Alf does not like this phone
+    remediation: Alf wants a new phone
+  disk_encryption_on: true
+  pin_lock_on: true
+  jail_broken: false
+  manufacturer: Apple
+  model: iPhone 14 Pro
+  imei: 987654321098765
+  meid: B0123456789012
+  udid: abcdef1234567890abcdef1234567890abcdef12
+  serial_number: APPLE12345678
+  os_version: iOS 17.3.1
+  phone_number: "+1987654321"
