@@ -1,3 +1,7 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/chetanph/ise-mock-mdm)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?logo=github)](https://github.com/chetanph/ise-mock-mdm)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
 # Mock MDM server for ISE
 
 This project aims to develop a mock Mobile Device Management (MDM) system that can be integrated
